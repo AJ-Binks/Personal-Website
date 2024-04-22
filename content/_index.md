@@ -1,19 +1,20 @@
 ---
 ---
 
-I'm **Chris Turner**, a Software Engineer.
+I'm **Annie Jarman**.
 
-I love all things computer science and maths.
+I am a Ph.D. candidate at Washington University in St. Louis's Political Science Department.
+
+I study gender politics using advanced quantitative methods.
 
 Have a look at some of my working [projects].
 
 For more check out my academic & professional [resume].
 
-Contact me at [@username] or by [email].
+Contact me by [email].
 
 
 
 [projects]: /projects
 [resume]: /cv.docx
-[@username]: https://twitter.com/username
-[email]: mailto:email@example.com
+[email]: mailto:a.a.jarman@wustl.edu
