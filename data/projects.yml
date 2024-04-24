@@ -1,24 +1,24 @@
 name: Projects
 source:
-  - icon: fa fa-cog
-    name: "Clicks and Stones: Women Politicians and Gendered Hostility Online"
-    description: forthcoming
+  - icon: fa fa-globe
+    name: Clicks and Stones Women Politicians and Gendered Hostility Online
+    description: forthcoming.
     url: https://github.com/nurlansu/hugo-sustain
-
-  - icon: fa fa-cog
-    name: "The Toll of Trolls: Online Hostility and Women's Progressive Ambition"
-    description: working paper
-    url: https://github.com/nurlansu/hugo-sustain
-
-  - icon: fa fa-cog
-    name: "Defining 'Politics': What People Think is Political and How it Matters for Civic Discourse"
-    description: working paper, with Lisa Argyle
-    url: https://github.com/nurlansu/hugo-sustain
-
-  - icon: fa fa-cog
-    name: "Annotating Multiple Criteria in Small Documents with GPT-4"
-    description: working paper
-    url: https://github.com/nurlansu/hugo-sustain
+  #
+  # - icon: fa fa-cog
+  #   name: "The Toll of Trolls: Online Hostility and Women\'s Progressive Ambition"
+  #   description: working paper
+  #   url: https://github.com/nurlansu/hugo-sustain
+  #
+  # - icon: fa fa-cog
+  #   name: "Defining \'Politics\': What People Think is Political and How it Matters for Civic Discourse"
+  #   description: working paper, with Lisa Argyle
+  #   url: https://github.com/nurlansu/hugo-sustain
+  #
+  # - icon: fa fa-cog
+  #   name: "Annotating Multiple Criteria in Small Documents with GPT-4"
+  #   description: working paper
+  #   url: https://github.com/nurlansu/hugo-sustain
 
   - #icon: fa fa-globe
     #name: Project 5
