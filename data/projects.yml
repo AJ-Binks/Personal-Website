@@ -1,10 +1,10 @@
 name: Projects
 source:
   - icon: fa fa-globe
-    name: Clicks and Stones Women Politicians and Gendered Hostility Online
+    name: "Clicks and Stones: Women Politicians and Gendered Hostility Online"
     description: forthcoming.
     url: https://github.com/nurlansu/hugo-sustain
-  
+
   - icon: fa fa-cog
     name: "The Toll of Trolls: Online Hostility and Women\'s Progressive Ambition"
     description: working paper
