@@ -1,6 +1,6 @@
-baseURL = "https://example.com/"
+baseURL = "https://eajarman.netlify.app/"
 languageCode = "en-US"
-title = "Chris Turner"
+title = "Elisabeth (Annie) Jarman"
 # Enable comments by entering your Disqus shortname
 # disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
@@ -11,8 +11,8 @@ theme = "hugo-sustain"
   post = "/:year/:month/:day/:slug"
 
 [params]
-  avatar = "img/profile.png"
-  author = "Chris Turner"
+  avatar = "img/profile_small.png"
+  author = "Elisabeth (Annie) Jarman"
   description = "Describe your website"
 
   # Custom assets can be linked with their paths relative to static/
@@ -21,7 +21,7 @@ theme = "hugo-sustain"
 
 [params.social]
   # Github        = "username"
-  Email         = "email@example.com"
+  Email         = "a.a.jarman@wustl.edu"
   # Twitter       = "username"
   # LinkedIn      = "username"
   # Stackoverflow = "username"
@@ -30,11 +30,11 @@ theme = "hugo-sustain"
   # RSS           = "/blog/index.xml"
 
 ## Main Menu
-[[menu.main]]
-  name = "blog"
-  weight = 100
-  identifier = "blog"
-  url = "/blog/"
+# [[menu.main]]
+#   name = "blog"
+#   weight = 100
+#   identifier = "blog"
+#   url = "/blog/"
 [[menu.main]]
   name = "projects"
   identifier = "projects"
